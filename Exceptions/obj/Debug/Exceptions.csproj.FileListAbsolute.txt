@@ -1,0 +1,12 @@
+D:\Federico\VB .Net\Visual Basic 2012\Pantalla485\Exceptions\Exceptions\bin\Debug\Exceptions.exe.config
+D:\Federico\VB .Net\Visual Basic 2012\Pantalla485\Exceptions\Exceptions\bin\Debug\Exceptions.exe
+D:\Federico\VB .Net\Visual Basic 2012\Pantalla485\Exceptions\Exceptions\bin\Debug\Exceptions.pdb
+D:\Federico\VB .Net\Visual Basic 2012\Pantalla485\Exceptions\Exceptions\obj\Debug\Exceptions.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual Basic 2012\Pantalla485\Exceptions\Exceptions\obj\Debug\Exceptions.exe
+D:\Federico\VB .Net\Visual Basic 2012\Pantalla485\Exceptions\Exceptions\obj\Debug\Exceptions.pdb
+C:\Users\fede\Downloads\UTN\Ejemplos\Exceptions\bin\Debug\Exceptions.exe.config
+C:\Users\fede\Downloads\UTN\Ejemplos\Exceptions\bin\Debug\Exceptions.exe
+C:\Users\fede\Downloads\UTN\Ejemplos\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\fede\Downloads\UTN\Ejemplos\Exceptions\obj\Debug\Exceptions.csprojResolveAssemblyReference.cache
+C:\Users\fede\Downloads\UTN\Ejemplos\Exceptions\obj\Debug\Exceptions.exe
+C:\Users\fede\Downloads\UTN\Ejemplos\Exceptions\obj\Debug\Exceptions.pdb

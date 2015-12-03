@@ -1,0 +1,18 @@
+D:\Federico\VB .Net\Visual Basic 2012\Pantalla485\Exceptions\Serializacion\bin\Debug\Serializacion.exe.config
+D:\Federico\VB .Net\Visual Basic 2012\Pantalla485\Exceptions\Serializacion\bin\Debug\Serializacion.exe
+D:\Federico\VB .Net\Visual Basic 2012\Pantalla485\Exceptions\Serializacion\bin\Debug\Serializacion.pdb
+D:\Federico\VB .Net\Visual Basic 2012\Pantalla485\Exceptions\Serializacion\obj\Debug\Serializacion.exe
+D:\Federico\VB .Net\Visual Basic 2012\Pantalla485\Exceptions\Serializacion\obj\Debug\Serializacion.pdb
+D:\Federico\VB .Net\Visual Basic 2012\Pantalla485\Exceptions\Serializacion\obj\Debug\Serializacion.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual Basic 2012\UTN\Ejemplos\Serializacion\bin\Debug\Serializacion.exe.config
+D:\Federico\VB .Net\Visual Basic 2012\UTN\Ejemplos\Serializacion\obj\Debug\Serializacion.exe
+D:\Federico\VB .Net\Visual Basic 2012\UTN\Ejemplos\Serializacion\obj\Debug\Serializacion.pdb
+C:\Users\fede\Downloads\UTN\Ejemplos\Serializacion\bin\Debug\Serializacion.exe.config
+C:\Users\fede\Downloads\UTN\Ejemplos\Serializacion\obj\Debug\Serializacion.exe
+C:\Users\fede\Downloads\UTN\Ejemplos\Serializacion\obj\Debug\Serializacion.pdb
+C:\Users\fede\Downloads\UTN\Ejemplos\Serializacion\bin\Debug\Serializacion.exe
+C:\Users\fede\Downloads\UTN\Ejemplos\Serializacion\bin\Debug\Serializacion.pdb
+C:\Users\fede\Downloads\UTN\Ejemplos\Serializacion\obj\Debug\Serializacion.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\UTN\Ejemplos\Serializacion\bin\Debug\Serializacion.exe.config
+C:\Users\Admin\Downloads\UTN\Ejemplos\Serializacion\obj\Debug\Serializacion.exe
+C:\Users\Admin\Downloads\UTN\Ejemplos\Serializacion\obj\Debug\Serializacion.pdb
